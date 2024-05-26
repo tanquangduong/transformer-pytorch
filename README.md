@@ -18,7 +18,7 @@ conda activate transformer
 ```
 3. Install the required dependencies: 
     - ```pip install -r requirements.txt```
-    - Adapt the first lines in requirements.txt in CPU or GPU:
+    - Adapt the first lines in requirements.txt for Pytorch usage with CPU or GPU:
         - For GPU, install locally Pytorch. Visit https://pytorch.org/get-started/locally/ Update the following URL to download and install appropriate Torch and Cuda for your system, e.g.: https://download.pytorch.org/whl/cu118
         - For CPU, install Pytorch from PyPI
 
