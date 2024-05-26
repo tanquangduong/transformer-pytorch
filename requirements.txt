@@ -8,11 +8,12 @@ torch
 # Install Pytorch from PyPI
 # torch
 
-torchmetrics
-numpy
+torchmetrics==1.4.0.post0
+numpy==1.26.4
 tqdm==4.66.4
 datasets==2.19.1
 tokenizers==0.19.1
 tensorboard==2.16.2
+
 # For notebooks playground
-jupyterlab
+jupyterlab==4.2.1
